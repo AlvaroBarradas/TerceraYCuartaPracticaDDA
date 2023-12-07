@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practica 3</string>
+    <string name="result_message">Hola</string>
+    <string name="error_message">Error</string>
+    <string name="add_height">Height (cm)</string>
+    <string name="add_weight">Weight (kg)</string>
+    <string name="body_mass_index">BMI</string>
+    <string name="less_than_18_5"><![CDATA[<18.5]]></string>
+    <string name="under_weight">Under weight</string>
+    <string name="between18_5_and_24_9">18.5-24.9</string>
+    <string name="normal_weight">Normal weight</string>
+    <string name="between25_and_29_9">25.0-29.99</string>
+    <string name="overweight">Overweight\n</string>
+    <string name="between30_and_34_9">30 - 34.9</string>
+    <string name="class1_obesity">Class 1 Obesity</string>
+    <string name="between35_and_39_9">35.0 - 39.9</string>
+    <string name="class2_obesity">Class 2 Obesity\n</string>
+    <string name="more_than_40"><![CDATA[>40]]></string>
+    <string name="class3_obesity">Class 3 Obesity\n</string>
+
+</resources>
